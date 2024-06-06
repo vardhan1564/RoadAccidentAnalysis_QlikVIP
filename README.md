@@ -53,7 +53,7 @@
 
 
 # All Rights Reserved to me 
-        Do not Copy & Paste Any Content of Mine without Permission
+        Do not Copy & Paste Any Content without Permission
 
 
 # Reach Out to me : 
