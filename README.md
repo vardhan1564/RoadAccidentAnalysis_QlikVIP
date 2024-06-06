@@ -11,9 +11,13 @@
         accurate and complete. This process helps to make data easily understandable and
         ready for creating visualizations to gain insights.
 # Visualization :
-              Data visualization is the process of creating graphical representations of data to help people understand information.
-              The goal of data visualization is to make complex data sets more accessible, intuitive, and easier to interpret. By using visual elements
-              such as charts, graphs, and maps, data visualization can help people identify patterns, trends, and outliers quickly in the data.
+                Data visualization is the process of creating graphical representations of data to help 
+        people understand information.The goal of data visualization is to make complex data
+        sets more accessible, intuitive, and easier to interpret. By using visual elements
+        such as charts, graphs, and maps, data visualization can help people identify patterns, 
+        trends, and outliers quickly in the data.
+
+  
 # Number of Visualizations : 
     Map Chart : Minors killed
     Bar Chart : Accidents on wrong side
