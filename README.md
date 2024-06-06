@@ -48,4 +48,7 @@
     a conclusion that summarizes the key findings and highlights their implications. Data
     stories can be told using a variety of media, such as reports, presentations, interactive
     visualizations and videos
-    
+
+
+# All Rights Reserved to me 
+        Do not Copy & Paste Any Content without Permission
