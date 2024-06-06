@@ -1,7 +1,7 @@
 # RoadAccidentAnalysis_QlikVIP
 
 # Project Title : Analysis of Road Safety & Accidents Patterns in India 
-
+# Linkedin : https://www.linkedin.com/in/vardhanadheli/
 # Visualization :
         Preparing the data for visualization involves cleaning the data to remove irrelevant or
     missing data, transforming the data into a format that can be easily visualized, exploring
