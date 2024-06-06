@@ -24,31 +24,35 @@
 
 
 # Dashboards :
-    A dashboard is a graphical user interface (GUI) that displays information and
+            A dashboard is a graphical user interface (GUI) that displays information and
     data in an organized and easy-to-read format. Dashboards are often used to provide
     real-time monitoring and analysis of data. They are typically designed for a specific
     purpose or use case. Dashboards can be used in a variety of settings, such as business,
     finance, manufacturing, healthcare, and many other industries. They can be used to
     track key performance indicators (KPIs), monitor performance metrics, and display data
     in the form of charts, graphs, and tables.
-    A dashboard in Qlik refers to a collection of visualizations, data, and analytics
+            A dashboard in Qlik refers to a collection of visualizations, data, and analytics
     designed to provide a comprehensive view of key metrics and insights. Qlik, a leading
     data analytics and business intelligence platform, allows users to create interactive
     dashboards that enable real-time data exploration and decision-making.
 
 # StoryTelling : 
         Storytelling in a Qlik project involves crafting a narrative around the insights and
-    findings derived from data analysis using Qlik Sense. It's about presenting data in a
-    compelling and informative way that engages stakeholders and communicates key
-    insights effectively.
-    A data story is a way of presenting data and analysis in a narrative format, with
-    the goal of making information more engaging and easier to understand. A data story
-    typically includes a clear introduction that sets the stage and explains the context for
-    the data, a body that presents the data and analysis in a logical and systematic way and
-    a conclusion that summarizes the key findings and highlights their implications. Data
-    stories can be told using a variety of media, such as reports, presentations, interactive
-    visualizations and videos
+        findings derived from data analysis using Qlik Sense. It's about presenting data in a
+        compelling and informative way that engages stakeholders and communicates key
+        insights effectively.
+        A data story is a way of presenting data and analysis in a narrative format, with
+        the goal of making information more engaging and easier to understand. A data story
+        typically includes a clear introduction that sets the stage and explains the context for
+        the data, a body that presents the data and analysis in a logical and systematic way and
+        a conclusion that summarizes the key findings and highlights their implications. Data
+        stories can be told using a variety of media, such as reports, presentations, interactive
+        visualizations and videos
 
 
 # All Rights Reserved to me 
-        Do not Copy & Paste Any Content without Permission
+        Do not Copy & Paste Any Content of Mine without Permission
+
+
+# Reach Out to me : 
+Linkedin Profile : https://www.linkedin.com/in/vardhanadheli/
