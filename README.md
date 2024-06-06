@@ -1,5 +1,3 @@
-# RoadAccidentAnalysis_QlikVIP
-
 # Project Title : Analysis of Road Safety & Accidents Patterns in India 
 # Linkedin : https://www.linkedin.com/in/vardhanadheli/
 # Visualization :
