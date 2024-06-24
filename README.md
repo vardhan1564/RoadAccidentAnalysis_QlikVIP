@@ -1,6 +1,6 @@
 # Project Title : Analysis of Road Safety & Accidents Patterns in India 
 
-# Linkedin : https://www.linkedin.com/in/vardhanadheli/
+
 
 #  Dataset Link : 
       https://wcr945tqbxg261p.sg.qlikcloud.com/dataset/6653676b5575718a30479cbc
